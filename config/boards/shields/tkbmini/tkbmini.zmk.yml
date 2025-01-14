@@ -1,0 +1,13 @@
+file_format: "1"
+id: tkbmini
+name: tkbmini
+type: shield
+url:
+requires:
+  - pro_micro
+exposes:
+features:
+  - keys
+siblings:
+  - tkbmini_left
+  - tkbmini_right
